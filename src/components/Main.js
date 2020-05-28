@@ -12,8 +12,8 @@ function Main() {
                     <img src={ bp } alt='myface'/>
                     <div className="card">
                         <ul>
-                            <li><a href='/' target='_blank'>github</a></li>
-                            <li><a href='/' target='_blank'>linkedIn</a></li>
+                            <li><a href='https://github.com/Michael-Mend' target='_blank' rel='noopener noreferrer'>github</a></li>
+                            <li><a href='https://www.linkedin.com/in/michael-mendoza-46a61b198/' target='_blank' rel='noopener noreferrer'>linkedIn</a></li>
                             <li><button>Email</button></li>
                         </ul>
                     </div>

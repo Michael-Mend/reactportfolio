@@ -91,3 +91,42 @@ li button {
 li button:hover {
   font-size: 27px;
 }
+
+.projectImg {
+  width: 450px;
+  height: 450px;
+  border-radius: 50%;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.project {
+  text-align: center;
+  width: 100%;
+  
+  padding-bottom: 40px;
+}
+
+.project h2 {
+  font-family: 'Julius Sans One';
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.project a {
+  border-bottom: solid;
+  border-color: white;
+  border-width: 1px;
+  padding-bottom: 40px;
+}
+
+.return {
+  position: fixed;
+  left: 100px;
+  top: 100px;
+}
+
+.returnImg {
+  height: 100px;
+}
