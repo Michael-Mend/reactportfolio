@@ -59,7 +59,7 @@ body {
   background-color: black;
 }
 .card:hover {
-  opacity: 100%;
+  opacity: inherit;
 }
 
 ul {
