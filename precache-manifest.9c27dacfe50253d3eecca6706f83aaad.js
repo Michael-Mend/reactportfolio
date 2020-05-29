@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c3e17e28d540e86127d5ca290934772",
+    "revision": "cd703b5dd8e6ec9b0656a3ae76f32d80",
     "url": "/Michael-Mend.github.io/reactportfolio/index.html"
   },
   {
-    "revision": "3b6ecf2a045cbf5af846",
+    "revision": "9768f31b973049fbc738",
     "url": "/Michael-Mend.github.io/reactportfolio/static/css/main.99bcff7b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Michael-Mend.github.io/reactportfolio/static/js/2.f432d0e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b6ecf2a045cbf5af846",
-    "url": "/Michael-Mend.github.io/reactportfolio/static/js/main.e9b2cf1a.chunk.js"
+    "revision": "9768f31b973049fbc738",
+    "url": "/Michael-Mend.github.io/reactportfolio/static/js/main.eabf26c2.chunk.js"
   },
   {
     "revision": "be2901fd511d8d59a4e6",
