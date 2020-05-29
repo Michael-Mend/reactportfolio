@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Route exact path='/' component={Main}></Route>
+        <Route exact path='/reactportfolio' component={Main}></Route>
         <Route exact path='/projects' component={Projects}></Route>
       </Router>
     );
