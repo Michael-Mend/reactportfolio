@@ -55,11 +55,11 @@ body {
   position: fixed;
   height: 250px;
   width: 250px;
-  opacity: 0%;
+  opacity: 0;
   background-color: black;
 }
 .card:hover {
-  opacity: inherit;
+  opacity: 1;
 }
 
 ul {
