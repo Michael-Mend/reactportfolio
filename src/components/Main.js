@@ -21,7 +21,7 @@ function Main() {
                 </div>
                 <div className='links'>
                     <Link to='/projects'>projects</Link>
-                    <a href='mailto:michael.mend97@yahoo.com'>email</a>
+                    <a href='mailto:michael.mend97@gmail.com'>email</a>
                     <a href='https://github.com/Michael-Mend' target='_blank' rel='noopener noreferrer'>github</a>
                     <a href='https://www.linkedin.com/in/michael-mendoza-46a61b198/' target='_blank' rel='noopener noreferrer'>linkedIn</a>
                     <a href='https://docs.google.com/document/d/1cHk4VTyfRINCzof0V6orUb2DXPspRU5PTVZaHaiNXts/edit?usp=sharing' target='_blank' rel='noopener noreferrer'>Resum&eacute; </a>
