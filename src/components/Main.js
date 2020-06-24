@@ -12,10 +12,10 @@ function Main() {
                     <img src={ bp } alt='myface'/>
                     <div>
                         <p>
-                            I'm Mike, a 22 year old full-stack (MERN) web developer based in Orlando, Fl. Technological literacy, and technology as a whole, are very important to me. Being able to use and undestand technology is going to become an exponentially more relevant skill as time goes on; that being said, I feel like I have stumbled upon my passion with coding.
+                            I'm Mike, a 22 year old full-stack (MERN) web developer based in Orlando, Fl. Technological literacy, and technology as a whole, are very important to me. Being able to use and understand technology is going to become an exponentially more relevant skill as time goes on; that being said, I feel like I have stumbled upon my passion with coding.
                         </p>
                         <p>
-                            In my time coding I have become profecient in the entirety of the MERN stack. In addition those 4 technologies, I have also become familiar with MySql, Handlebars, Axios, jquery, and many others that are useful in the process of building a full stack application. I am confident in my skills as a developer and I am excited for new problem solving oppurtunities that come along with software developement.
+                            In my time coding I have become proficient in the entirety of the MERN stack. In addition those 4 technologies, I have also become familiar with MySql, Handlebars, Axios, jquery, and many others that are useful in the process of building a full stack application. I am confident in my skills as a developer and I am excited for new problem solving opportunities that come along with software development. 
                         </p>
                     </div>
                 </div>
