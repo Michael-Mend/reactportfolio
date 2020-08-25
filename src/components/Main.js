@@ -20,7 +20,7 @@ function Main() {
                     </div>
                 </div>
                 <div className='links'>
-                    <Link to='/projects'>projects</Link>
+                    <Link to='/reactpotfolio/projects'>projects</Link>
                     <a href='mailto:michael.mend97@gmail.com'>email</a>
                     <a href='https://github.com/Michael-Mend' target='_blank' rel='noopener noreferrer'>github</a>
                     <a href='https://www.linkedin.com/in/michael-mendoza-46a61b198/' target='_blank' rel='noopener noreferrer'>linkedIn</a>

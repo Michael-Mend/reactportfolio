@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <Router>
         <Route exact path='/reactportfolio' component={Main}></Route>
-        <Route exact path='/projects' component={Projects}></Route>
+        <Route exact path='/reactportfolio/projects' component={Projects}></Route>
       </Router>
     );
   }
