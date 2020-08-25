@@ -1,10 +1,4 @@
 export default [{
-    name: 'Poddler',
-    img: 'https://i.imgur.com/IhBOzkM.png',
-    link: 'https://sheltered-gorge-46855.herokuapp.com/',
-    git: 'https://github.com/yarocruz/project-2',
-    desc: 'user driven podcast directory'
-},{
     name: 'Zoid',
     img: 'https://i.imgur.com/sSiikpy.png',
     link: 'https://projectzoid.herokuapp.com/',
