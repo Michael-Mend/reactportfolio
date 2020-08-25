@@ -33,7 +33,7 @@ function Main() {
                     <img src={ bp } alt='myface'/>
                     <div>
                         <p>
-                            I'm Mike, a 22 year old full-stack (MERN) web developer based in Orlando, Fl. I am new to programming but I have been using computers for as long as I can remember. Beyond coding; technological literacy, and technology as a whole, are very important to me. Being able to use and undestand technology is going to become an exponentially more relevant skill as time goes on; that being said, I feel like I have stumbled upon my passion with coding and I am excited to grow my knowledge in the years to come.
+                            I'm Mike, a 23 year old full-stack (MERN) web developer based in Orlando, Fl. I am new to programming but I have been using computers for as long as I can remember. Beyond coding; technological literacy, and technology as a whole, are very important to me. Being able to use and undestand technology is going to become an exponentially more relevant skill as time goes on; that being said, I feel like I have stumbled upon my passion with coding and I am excited to grow my knowledge in the years to come.
                         </p>
                     </div>
                 </div>
