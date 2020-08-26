@@ -38,7 +38,7 @@ function Main() {
                     </div>
                 </div>
                 <div className='links'>
-                    <Link to='/projects'>projects</Link>
+                    <Link to='/reactportfolio/projects'>projects</Link>
                     <a href='mailto:michael.mend97@yahoo.com'>email</a>
                 </div>
                 <div className='links'>
